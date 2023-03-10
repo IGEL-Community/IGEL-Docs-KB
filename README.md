@@ -1,6 +1,6 @@
 # IGEL-Docs-KB
 
-IGEL-Docs-KB is a snapshot in time, in PDF format, of the [IGEL.KB.COM](https://igel.kb.com) site.
+IGEL-Docs-KB is a snapshot in time, in PDF format, of the [kb.igel.com](https://kb.igel.com) site.
 
 These documents can be used if IGEL KB site is offline for maintenance.
 
