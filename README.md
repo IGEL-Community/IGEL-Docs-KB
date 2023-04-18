@@ -27,7 +27,7 @@ These documents can be used if IGEL KB site is offline for maintenance.
 - [Citrix Workspace App](IGEL-KB/02-IGEL_OS_Apps/01-Citrix_Workspace_App.pdf)
 - [IGEL Azure Virtual Desktop Client](IGEL-KB/02-IGEL_OS_Apps/02-IGEL_Azure_Virtual_Desktop_Client.pdf)
 - [VMware Horizon Client](IGEL-KB/02-IGEL_OS_Apps/03-VMware_Horizon_Client.pdf)
-- [Chromium Browswer](IGEL-KB/02-IGEL_OS_Apps/04-Chromium_Browser.pdf)
+- [Chromium Browser](IGEL-KB/02-IGEL_OS_Apps/04-Chromium_Browser.pdf)
 - [Cisco Webex VDI](IGEL-KB/02-IGEL_OS_Apps/05-Cisco_Webex_VDI.pdf)
 - [Cisco Webex Meetings VDI](IGEL-KB/02-IGEL_OS_Apps/06-Cisco_Webex_Meetings_VDI.pdf)
 - [Cisco Jabber VDI (JVDI)](IGEL-KB/02-IGEL_OS_Apps/07-Cisco_Jabber_VDI_JVDI.pdf)
