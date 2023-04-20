@@ -19,6 +19,7 @@ These documents can be used if IGEL KB site is offline for maintenance.
 - [IGEL Management Interface (IMI)](IGEL-KB/01-COSMOS_Platform/04-IGEL_Management_Interface_IMI.pdf)
 - [Hardware - Supported Devices](IGEL-KB/01-COSMOS_Platform/05a-Hardware_Supported_Devices.pdf)
 - [Hardware - UD Pocket](IGEL-KB/01-COSMOS_Platform/05b-UD_Pocket.pdf)
+- [IGEL Cloud Gateway (ICG)](IGEL-KB/01-COSMOS_Platform/06-IGEL_Cloud_Gateway_ICG.pdf)
 
 -----
 
