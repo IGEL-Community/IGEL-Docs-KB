@@ -42,6 +42,9 @@ These documents can be used if IGEL KB site is offline for maintenance.
 - [FabulaTech Webcam for Remote Desktop](https://raw.githubusercontent.com/IGEL-Community/IGEL-Docs-KB/main/IGEL-KB/02-IGEL_OS_Apps/12-FabulaTech_Webcam_for_Remote_Desktop.pdf)
 - [FabulaTech Scanner for Remote Desktop](https://raw.githubusercontent.com/IGEL-Community/IGEL-Docs-KB/main/IGEL-KB/02-IGEL_OS_Apps/13-FabulaTech_Scanner_for_Remote_Desktop.pdf)
 - [Media Player Parole](https://raw.githubusercontent.com/IGEL-Community/IGEL-Docs-KB/main/IGEL-KB/02-IGEL_OS_Apps/14-Media_Player_Parole.pdf)
+- [CUPS Printing](https://raw.githubusercontent.com/IGEL-Community/IGEL-Docs-KB/main/IGEL-KB/02-IGEL_OS_Apps/15-CUPS_Printing_App.pdf)
+- [IGEL Remote Desktop](https://raw.githubusercontent.com/IGEL-Community/IGEL-Docs-KB/main/IGEL-KB/02-IGEL_OS_Apps/16-IGEL_Remote_Desktop.pdf)
+- [IGEL Windows 365](https://raw.githubusercontent.com/IGEL-Community/IGEL-Docs-KB/main/IGEL-KB/02-IGEL_OS_Apps/17-IGEL_Windows_365.pdf)
 
 ----------
 
